@@ -1,7 +1,7 @@
 bases:
 - ../../base
 
-path:
+patches:
  - replicas.yaml
 
 configMapGenerator:
